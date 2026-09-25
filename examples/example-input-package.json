@@ -1,0 +1,4 @@
+{
+  "name": "acme-dashboard",
+  "scripts": { "build": "next build", "test": "vitest run", "lint": "eslint ." }
+}
